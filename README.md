@@ -111,7 +111,7 @@ Email: adipta1010@gmail.com
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/CodeReaper-10/coderefinery-documentation-example-project/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/CodeReaper-10/coderefinery-documentation-example-project/blob/main/LICENSE.txt
+[license-url]: https://github.com/CodeReaper-10/coderefinery-documentation-example-project/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adipta-santra-5978a0219/
 [Python.org]: https://img.shields.io/badge/Python-3.5-blue
