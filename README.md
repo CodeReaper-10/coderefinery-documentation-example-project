@@ -35,7 +35,7 @@ Temperature data is an important aspect in a wide range of industries such as ag
 
 ## Requirements
 
-This project requires [![Python][Python.org]][python-url] to be installed on your machine. It depends on ``pandas`` library as well.
+This project requires [![Python][Python-url]][Python.org] to be installed on your machine. It depends on ``pandas`` library as well.
 
 
 ## Installation
@@ -115,5 +115,5 @@ Email: adipta1010@gmail.com
 [license-url]: https://github.com/CodeReaper-10/coderefinery-documentation-example-project/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adipta-santra-5978a0219/
-[Python.org]: https://img.shields.io/badge/Python-3.5-blue
-[Python-url]: https://www.python.org/
+[Python-url]: https://img.shields.io/badge/Python-v3.5-blue
+[Python.org]: https://www.python.org/
