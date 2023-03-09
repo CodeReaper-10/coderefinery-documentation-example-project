@@ -52,6 +52,7 @@ This project requires [![Python][Python.org]][python-url] to be installed on you
     ```bash
     pip install -r requirements.txt
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Usage
