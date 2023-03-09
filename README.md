@@ -1,4 +1,6 @@
 <a name="readme-top"></a>
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -7,7 +9,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<div align="center">
+
 <h1>Temperature Data Logger</h1>
 
 ![Temperature Data Logger](https://user-images.githubusercontent.com/81917570/224166973-1a1e62ba-f4a6-4f94-a666-fda4a74370d1.jpg)
