@@ -12,7 +12,7 @@
 
 # Temperature Data Logger
 
-![Temperature Data Logger](https://user-images.githubusercontent.com/81917570/224166973-1a1e62ba-f4a6-4f94-a666-fda4a74370d1.jpg)
+![Temperature Data Logger](https://user-images.githubusercontent.com/81917570/224317639-c13d28c0-6c87-4134-82c5-57e50a24ca29.png)
 
 This is a project that takes temperature data as input from an excel sheet and displays the results accordingly.
 
